@@ -1,1 +1,4 @@
 # copy-paste
+
+API_KEY=zvNrxlnvoJwVK9PXRQ0dGmDj Aza6Pznn9703bWlxMbL704Ee5BgryN3Yk2ZqZ5Vq 
+SECRET=JORXkYdgo95D3jMvJzb1ZLA2B08bdQQxyoeJcBpqNKYPG70xE1Xe 4mQrnRwaV5n0
