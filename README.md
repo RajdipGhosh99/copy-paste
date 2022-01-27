@@ -19,4 +19,4 @@ api_secret = jQRXkYdgo95D3jMvJzb1ZLA2BO8bdQQxyoeJcBpqNKyPG70xElXe4mQrnRwaV5nO
 https://github.com/kuhnroyal/mat-datetimepicker
 
 
-https://h2qutc.github.io/angular-material-components/datetimepicker
+https://github.com/h2qutc/angular-material-components
