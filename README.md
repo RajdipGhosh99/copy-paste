@@ -16,7 +16,7 @@ api_secret = jQRXkYdgo95D3jMvJzb1ZLA2BO8bdQQxyoeJcBpqNKyPG70xElXe4mQrnRwaV5nO
 
 
 
-<mat-form-field appearance="outline">
+mat-form-field appearance="outline">
    <mat-label>Input type time</mat-label>
    <input type="time" matInput name="week" min="09:00" max="18:00">
-</mat-form-field>
+mat-form-field>
