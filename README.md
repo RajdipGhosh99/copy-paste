@@ -13,3 +13,10 @@ api_secret = jQRXkYdgo95D3jMvJzb1ZLA2BO8bdQQxyoeJcBpqNKyPG70xElXe4mQrnRwaV5nO
 
 "api_key" : "a6VYr8wMrQSk2bHp3US7vgEHIkbx2JP0ltQgbShA9pXL9_JXA8xpNKcF6M1QMAgp",
         "secret_key" : "56GyV_vPibBdPwkurwbtslC_ZCLlDoXqNkdX9tqn3B7I9X98pEgs7JYyGtpuLwk6YR0b8DEIW0XdhN8YEzWrLZx6pAb1xjv8",
+
+
+
+<mat-form-field appearance="outline">
+   <mat-label>Input type time</mat-label>
+   <input type="time" matInput name="week" min="09:00" max="18:00">
+</mat-form-field>
