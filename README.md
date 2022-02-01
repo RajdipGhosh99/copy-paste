@@ -20,3 +20,5 @@ https://github.com/kuhnroyal/mat-datetimepicker
 
 
 https://github.com/h2qutc/angular-material-components
+
+properties, equipments,objectProperties,engineeringUnits
