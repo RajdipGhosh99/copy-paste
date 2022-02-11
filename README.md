@@ -22,3 +22,14 @@ https://github.com/kuhnroyal/mat-datetimepicker
 https://github.com/h2qutc/angular-material-components
 
 properties, equipments,objectProperties,engineeringUnits
+
+
+
+active_status: true
+api_base_url: "api.wattsense.com"
+cm_id: "62022be03eeae7c376a7e25d"
+cml_id: "62022be03eeae7c376a7e25e"
+created_by: "61373b0c559072149f798409"
+created_date: "2022-02-08T08:37:52.064000"
+description: "This is for wattsense"
+name: "Wattsense"
