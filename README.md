@@ -35,5 +35,16 @@ description: "This is for wattsense"
 name: "Wattsense"
 
 
+"facility_id":"61719d20267e9d6b56783cal",
 
-ObjectId("61cbb85c37854efc5fc538c3")     ObjectId("5f2ac2be2dc6c7601cb7a7b7")
+"dashboard_id":"61fbd7efb9dea6955d31ac", "asset_class_id":"61cbb85c37854efc5f0530d4*
+
+"asset_id":"61cbb85c37854efc5fc536d8",
+
+"tag_type":"type A".
+
+consuption_center_name":"cans c1",
+
+"consumption_center_tags":["61cbb65c37854efc5fc538d6,61cbb85c37854efc5f053806],
+
+"user_id":"617f9d2d267e9d6b56783ca2!
