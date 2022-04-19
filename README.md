@@ -48,3 +48,10 @@ consuption_center_name":"cans c1",
 "consumption_center_tags":["61cbb65c37854efc5fc538d6,61cbb85c37854efc5f053806],
 
 "user_id":"617f9d2d267e9d6b56783ca2!
+
+
+
+5fd714f210c2b776a835feac
+BlkA-ARF03-FAHU-ARF-1
+IRE-asset-952010
+
